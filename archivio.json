@@ -1,0 +1,41 @@
+{
+  "utenti": [
+    {
+      "nome": "Giuseppe",
+      "cognome": "Gagliotta",
+      "luogo": "Napoli",
+      "data": "01/07/1980",
+      "residenza": "Guastalla",
+      "provincia": "RE",
+      "tessera": "044-402204802"
+    },
+    {
+      "nome": "Antonio",
+      "cognome": "Fontana",
+      "luogo": "Santa Maria Capua Vetere - Caserta",
+      "data": "21/12/1997",
+      "residenza": "Castelfranco Emilia",
+      "provincia": "MO",
+      "tessera": "044-"
+    },
+    {
+      "nome": "Luigi",
+      "cognome": "Sola",
+      "luogo": "Casoria - Napoli",
+      "data": "11/02/1970",
+      "residenza": "Rubiera",
+      "provincia": "RE",
+      "tessera": "044 400321822"
+    },
+    {
+      "nome": "Andrea",
+      "cognome": "Sola",
+      "luogo": "Modena",
+      "data": "30/08/1995",
+      "residenza": "Rubiera",
+      "provincia": "RE",
+      "tessera": "044 400308001"
+    }
+  ],
+  "trasferte": []
+}
